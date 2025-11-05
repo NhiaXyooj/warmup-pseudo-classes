@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+a{
+    color: rgb(233, 100, 6);
+}
+a:visited{
+    color: grey;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: blue;
+    font-size: 35px;
+    text-decoration: none;
+}
+a:focus{
+    color: cadetblue;
+    outline: 4px solid red;
+}
+a:active{
+    color: chartreuse;
+}
+
